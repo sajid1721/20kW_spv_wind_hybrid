@@ -1,0 +1,20 @@
+Provided inputs :,
+Location [Lat/Lon]:,"
+      21.948 , 90.650
+    "
+Horizon:,Calculated
+Database used:,PVGIS-ERA5
+PV technology:,Crystalline silicon
+PV installed [Wp]:,10
+System loss [%]:,14
+Simulation outputs :,
+Slope angle [Â°]:,23
+Azimuth angle [Â°]:,-179
+Yearly PV energy production [kWh]:,10529.93
+Yearly in-plane irradiation [kWh/m2]:,1417.31
+Year-to-year variability [kWh]:,234.76
+Changes in output due to:,
+Angle of incidence [%]:,-5.04
+Spectral effects [%]:,0.53
+Temperature and low irradiance [%]:,-9.5
+Total loss [%]:,-25.7
