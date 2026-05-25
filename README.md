@@ -39,7 +39,4 @@ The site was selected due to:
 - Reduces carbon emissions while serving rural households sustainably
 
 ## 👤 Author
-**Sajid Sadman**  
-Mechanical Engineer | Renewable Energy Enthusiast  
-📍 Bangladesh  
-🔗 LinkedIn: *(add link here)*
+**Sajid Sadman**
